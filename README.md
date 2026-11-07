@@ -187,3 +187,6 @@ This repository serves as the official landing page for Heroes of Stolen Lands. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heroes of Stolen Lands today!**
+
+---
+**Last updated:** 2026-11-07 06:55:24 UTC
