@@ -189,4 +189,4 @@ This repository serves as the official landing page for Heroes of Stolen Lands. 
 **Get the most recent version of Heroes of Stolen Lands today!**
 
 ---
-**Last updated:** 2026-11-12 18:45:09 UTC
+**Last updated:** 2026-11-13 00:00:27 UTC
